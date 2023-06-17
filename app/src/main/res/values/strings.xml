@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">Inventor Application</string>
+    <string name="inventor_name">Nama Penemu</string>
+    <string name="description">Deskripsi</string>
+    <string name="about">About</string>
+    <string name="me_name">Rizki Ramadhan</string>
+    <string name="me_email">ikidhan@gmail.com</string>
+    <string-array name="data_name">
+        <item>Albert Einstein</item>
+        <item>Alessandro Volta</item>
+        <item>Alexander Graham Bell</item>
+        <item>Alfred Nobel</item>
+        <item>Antonie van Leeuwenhoek</item>
+        <item>Antonio Meucci</item>
+        <item>Benjamin franklin</item>
+        <item>Blaise Pascal</item>
+        <item>Christians Huygens</item>
+        <item>Guglielmo Marconi</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Albert Einstein (14 Maret 1879 – 18 April 1955) adalah fisikawan teoretis kelahiran Jerman, secara luas diakui sebagai salah seorang fisikawan terhebat sepanjang masa. Einstein terkenal atas pengembangan teori relativitas, tetapi ia juga membuat konstribusi penting terhadap pengembangan teori mekanika kuantum. Relativitas dan mekanika kuantum adalah dua pilar fisika modern. Einstein menerima Nobel Fisika pada tahun 1921 "atas jasanya terhadap fisika teoretis, dan khususnya atas penemuannya tentang hukum efek fotolistrik", yang menjadi langkah penting dalam pengembangan teori kuantum.</item>
+        <item>Alessandro Giuseppe Antonio Anastasio Gerolamo Umberto Volta (18 Februari 1745 – 5 Maret 1827) adalah seorang fisikawan, ahli kimia guru besar, pengarang, dan penemu elemen baterai atau tumpukan Volta(1800), juga penemu kondensator, eudimeter, pistol listrik, dan lampu udara. Dia memperbaiki elektroforus (1777) dan elektroskop, selain juga menemukan dan mengisolasi gas metan (1778). Ia terutama dikenal karena mengembangkan baterai pada tahun 1800. Putra seorang bangsawan ini mempunyai saudara kandung 9 orang. Semuanya masuk biara kecuali dirinya, Volta.</item>
+        <item>Alexander Graham Bell lahir di Edinburgh, 3 Maret 1847. Bell adalah seorang ilmuwan, pencipta, dan pendiri perusahaan telepon Bell. Selain karyanya dalam teknologi telekomunikasi, ia juga menyumbangkan kemajuan penting dalam teknologi penerbangan dan hidrofoil. Bell umumnya dikenal sebagai penemu telepon tahun 1876 di Amerika Serikat, tetapi menurut Kongres AS pada Juni 2002 menetapkan bahwa Antonio Meucci-lah yang menemukan telepon. Walaupun Alexander Graham Bell penemu telepon, dia tidak pernah menelepon istri dan ibunya karena mereka tunarungu</item>
+        <item>Alfred Bernhard Nobel (21 Oktober 1833 – 10 Desember 1896) ialah seorang kimiawan, insinyur, dan pebisnis asal Swedia yang menemukan dinamit. Dalam surat wasiatnya, dia memberikan hartanya untuk membuat Penghargaan Nobel. Alfred lahir pada tanggal 21 Oktober 1833 di Stockholm, Swedia. Ayahnya bernama Immanuel Nobel dan ibunya bernama Andriette Ahlsell Nobel. Ayah Alfred ialah seorang insinyur dan penemu; ia membangun jembatan, bangunan, dan mengadakan percobaan dengan bermacam cara dalam peledakan batu.</item>
+        <item>Antonie Philips van Leeuwenhoek (24 Oktober 1632 – 26 Agustus 1723) adalah ilmuwan Belanda yang berasal dari Delft. Ia disebut sebagai "Bapak Biologi", dan dianggap sebagai mikrobiolog pertama. Ia terlahir sebagai putra pembuat keranjang. Ia terkenal atas pengembangan mikroskop dan kontribusinya terhadap didirikannya mikrobiologi. Ia adalah orang pertama yang mengamati dan mendeskripsikan organisme bersel satu.</item>
+        <item>Antonio Santi Giuseppe Meucci (13 April 1808 – 18 Oktober 1889) adalah seorang penemu berkebangsaan Italia yang penemuannya merupakan alat komunikasi modern yang sangat dibutuhkan oleh masyarakat sekarang ini untuk kehidupan sosial yaitu telepon. Umumnya penemu telepon yang lebih dikenal masyarakat adalah Alexander Graham Bell, tetapi sepertinya sejarah harus ditulis ulang karena adalah seorang imigran dari Firenze, Kerajaan Italia yang bernama Antonio Meucci yang telah menciptakan telepon pada tahun 1849 dan mematenkan hasil karyanya pada tahun 1871.</item>
+        <item>Benjamin Franklin (17 Januari 1706 – 17 April 1790) adalah seorang tokoh Amerika Serikat yang terkenal dan telah meninggalkan banyak karya di dalam hidupnya. Franklin adalah orang dengan banyak jenis pekerjaan dan keahlian. Ia adalah seorang wartawan, penerbit, pengarang, filantropis, abolisionis, pelayan masyarakat (pejabat), ilmuwan, diplomat, dan penemu sekaligus. Franklin juga adalah salah seorang pemimpin Revolusi Amerika, dan salah satu penandatangan Deklarasi Kemerdekaan Amerika. Kata-katanya banyak yang terkenal dan dikutip orang. Misalnya "waktu adalah uang" kemungkinan besar berasal dari dirinya. Karena ia juga seorang penerbit dan pemilik percetakan, banyak kata-katanya yang masih bisa dibaca orang hingga sekarang karena ia juga banyak dan rajin menulis. Ia juga terkenal dengan percobaanya mengenai listrik (penangkal petir). Dia adalah Kepala Kantor Pos pertama di Amerika, pembuat "perpustakaan umum" pertama, dan orang pertama yang mengorganisasikan barisan pemadam kebakaran kota.</item>
+        <item>Blaise Pascal (19 Juni 1623 – 19 Agustus 1662) berasal dari Prancis. Minat utamanya ialah filsafat dan agama, sedangkan hobinya yang lain adalah matematika dan geometri proyektif. Bersama dengan Pierre de Fermat menemukan teori tentang probabilitas. Pada awalnya minat riset dari Pascal lebih banyak berfokus pada bidang ilmu pengetahuan dan ilmu terapan, di mana dia telah berhasil menciptakan mesin penghitung yang dikenal pertama kali. Mesin itu hanya dapat digunakan untuk menghitung.</item>
+        <item>Christiaan Huygens (14 April 1629 – 8 Juli 1695) merupakan matematikawan dan fisikawan Belanda, dia juga seorang ilmuwan yang paling berjaya pada masanya. Lahir di Den Haag sebagai anak dari Constantijn Huygens. Ahli sejarah umumnya mengaitkan Huygens dengan revolusi ilmiah. Christiaan umumnya menerima penghargaan minor atas perannya dalam perkembangan kalkulus modern. Ia juga mendapatkan peringatan atas argumennya bahwa cahaya terdiri dari gelombang. Tahun 1655, ia menemukan bulan Saturnus, Titan.</item>
+        <item>Guglielmo Marconi (25 April 1874 – 20 Juli 1937) adalah seorang insinyur listrik Italia dan peraih hadiah Nobel, terkenal setelah mengembangkan suatu sistem telegrafi tanpa kabel yang dikenal sebagai "radio". Ia menerimanya bersama Karl Braun tahun 1909.</item>
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/albert_einstein</item>
+        <item>@drawable/alessandro_volta</item>
+        <item>@drawable/alexander_graham_bell</item>
+        <item>@drawable/alfred_nobel</item>
+        <item>@drawable/antoni_van_leeuwenhoek</item>
+        <item>@drawable/antonio_meucci</item>
+        <item>@drawable/benjamin_franklin</item>
+        <item>@drawable/blaise_pascal</item>
+        <item>@drawable/christians_huygens</item>
+        <item>@drawable/guglielmo_marconi</item>
+    </integer-array>
+    <string-array name="data_born">
+        <item>1879 - 1955</item>
+        <item>1745 - 1827</item>
+        <item>1847 - 1922</item>
+        <item>1833 – 1896</item>
+        <item>1632 – 1723</item>
+        <item>1808 – 1889</item>
+        <item>1706 – 1790</item>
+        <item>1623 – 1662</item>
+        <item>1629 – 1695</item>
+        <item>1874 – 1937</item>
+    </string-array>
+    <string-array name="data_temuan">
+        <item>Penemu Teori Relativitas</item>
+        <item>Penemu Baterai</item>
+        <item>Penemu Telepon</item>
+        <item>Penemu Dinamit</item>
+        <item>Penemu Bakteria dan Protozoa</item>
+        <item>Penemu Telepon</item>
+        <item>Penemu Lensa Kacamata</item>
+        <item>Penemu Mesin Hitung</item>
+        <item>Penemu Jam</item>
+        <item>Penemu Radio</item>
+    </string-array>
+</resources>
